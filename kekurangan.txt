@@ -1,0 +1,69 @@
+1. ongkos kirim di history transaksi admin n member n cekout member
+*- 3 kolom belum masuk database
+*2. tahun lahir di pengaturan akun (tgl lahir)
+*4. laporan barang yang rusak
+*5. hubungi kami, masuk ke admin bukan ke email
+*6. time limit
+7. validasi insert produk yg sama (harusnya tidak bisa)
+*8. konfirmasi pembayaran
+*9. captcha di database dihilangkan tetapi tetep ada untuk register member (CEK)
+*10. captcha di "hubungi kami" dihilangkan
+*11. berat produk di tambah produk n data semua produk belum ada
+
+FILE UPDATE :
+- checkout.php 	-> function kirim_invoice() {}
+				-> function ambildatakota() {}
+				-> function tambah_barang() {}
+				-> function update_keranjang() {}
+- bg_checkout.php	-> AMBIL DITEMPAT menjadi 0
+					-> file-file hidden pindah masuk ke form
+					-> <select name="qty[]" class="input-teks">
+					-> <?php echo form_hidden('kodeproduk[]', $items['id']); ?>
+					-> input "urlproduk"
+- bg_keranjang_belanja.php 	-> keterangan dibawah tombol "UPDATE KERANJANG BELANJA"
+							-> input "urlproduk"
+							-> input hidden "kodeproduk[]"
+							-> $sr['stok'] >= 5
+- bg_detail_produk.php	-> disable di combobox ketika barang habis
+						-> input "urlproduk"
+						-> $dp['stok'] >= 5
+						-> $sps['stok'] >= 5
+- bg_home.php	-> $sph['stok'] >= 5
+- bg_produk.php	-> $kt['stok'] >= 5
+- bg_kategori.php	-> $kt['stok'] >= 5
+- bg_left.php	-> $sl['stok'] >= 5
+- keranjang.php -> function tambah_barang() {}
+				-> function update_keranjang() {}
+- songkok_model.php -> function cekstok_produk() {}
+- bg_lihat_produk.php	-> <td style="padding:5px;">Berat</td>
+						-> <td style="padding:5px;">'.$tp['berat'].' gram</td>
+- bg_tambah_produk.php	-> <tr>
+								<td width="120">Berat @item</td>
+								<td>:</td>
+								<td><input type="text" name="beratitem" value="1" class="login-inp" size="20"> </td>
+							</tr>
+- bg_edit_produk.php	-> <tr><td width="120">Berat @item</td><td>:</td><td><input type="text" name="beratitem" class="login-inp" 
+							size="20" value="<?php echo $e['berat']; ?>"> gram</td></tr>
+- aksesroot.php	-> function update_produk() {}
+				-> function insert_produk() {}
+				-> function transaksi_histori() {}
+- bg_transaksi_histori.php	-> <td width="7%" style="padding:5px;">Kode Transaksi</td>
+								<td width="7%" style="padding:5px;">Tgl Pemesan</td>
+								<td style="padding:5px;">Pemesan</td>
+								<td style="padding:5px;">Penerima</td>
+								<td width="10%" style="padding:5px;">Kode Produk</td>
+								<td width="10%" style="padding:5px;">Nama Produk</td>
+								<td width="7%" style="padding:5px;">Harga (IDR)</td>
+								<td style="padding:5px;">Jumlah</td>
+								<td width="7%" style="padding:5px;">Sub Total (IDR)</td>
+								<td style="padding:5px;">Total Harga (IDR)</td>
+								<td width="8%" style="padding:5px;">Pengiriman</td>
+								<td style="padding:5px;">Total Berat (kg)</td>
+								<td style="padding:5px;">Total Harga Kirim (IDR)</td>
+								<td style="padding:5px;">Total Semua (IDR)</td>
+								<td style="padding:5px;">Status</td>
+								<td style="padding:5px;">Aksi</td>
+							-> echo '<td style="padding:5px;">KEBUMEN - '.$tp['kota'].' (via '.$tp['pengiriman'].') @'.$tp['hargaperkilo'].'</td>';
+								echo '<td style="padding:5px;">'.number_format($tp['subberat'], 2, ',', '.').'</td>';
+								echo '<td style="padding:5px;">'.number_format($tp['subtotal'], 0, ',', '.').'</td>';
+								echo '<td style="padding:5px;">'.number_format($tp['subtotal'] + $totalall, 0, ',', '.').'</td>';

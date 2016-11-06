@@ -1,0 +1,140 @@
+.lof-slidecontent{
+	position:relative;
+	overflow:hidden;
+	width: 978px;
+	height:201px;
+	border-left:1px solid #0080E3;
+	border-right:1px solid #0080E3;
+}
+.lof-slidecontent .preload{
+	height:100%;
+	width:100%;
+	background:#FFF;
+	position:absolute;
+	top:0;
+	left:0;
+	z-index:100;
+	color:#FFF;
+	text-align:center
+}
+.lof-slidecontent .preload div{
+	height:100%;
+	width:100%;
+	background:transparent url(../images/load-indicator.gif) no-repeat scroll 50% 50%;
+}
+.lof-main-outer{
+	position:absolute;
+	height:100%;
+	width:680px;
+	overflow:hidden;
+}
+
+
+
+/* main flash */
+ul.lof-main-wapper{
+	overflow:hidden;
+	background:transparent url(../images/load-indicator.gif) no-repeat scroll 50% 50%;
+	padding:0px;
+	margin:0;
+	height:200px;
+	width:680px;
+	position:absolute;
+	overflow:hidden;
+}
+
+ul.lof-main-wapper li{
+	overflow:hidden;
+	padding:0px;
+	margin:0px;
+	width:700px;
+	float:left;
+}
+.lof-opacity  li{
+	position:absolute;
+	top:0;
+	left:0;
+	float:inherit;
+}
+ul.lof-main-wapper li img{
+	padding:0px;
+}
+
+
+
+/* item navigator */
+ul.lof-navigator
+{
+	top:0;
+	padding:0;
+	margin:0;
+	position:absolute;
+	width:100%;
+}
+ul.lof-navigator li{
+	cursor:hand; 
+	cursor:pointer;
+	list-style:none;
+	width:100%;
+	padding:0;
+	margin:0;
+	overflow:hidden;
+}
+.lof-navigator-outer
+{
+	position:absolute;
+	right:0px;
+	top:0px;
+	width:400px;
+	overflow:hidden;
+	color:#FFF;
+}
+.lof-navigator li.active{
+	background:url(../images/arrow-bg.png) no-repeat scroll left center; 
+	color:#FFFFFF;
+}
+
+.lof-navigator li h3{
+	color:#FFF;
+	font-size:100%;
+	padding:15px 0 0;
+	margin:0 8px;
+}
+
+.lof-navigator li h3 a{
+	color:#FFF;
+}
+
+.lof-navigator li h3 a:hover{
+	color:#FF6;
+	text-decoration:underline;
+}
+
+.lof-navigator li div{
+	background:url(../images/transparent_bg.png);
+	color:#FFFFFF;
+	height:100%;
+	position:relative;
+	margin-left:15px;
+	padding-left:15px;
+	border-top:1px solid #E1E1E1;
+}
+
+.lof-navigator li.active div{
+	background:url(../images/grad-bg.gif);
+	color:#000;
+}
+.lof-navigator li img{
+	height:60px;
+	width:80px;
+	margin:15px 15px 10px 0px;
+	float:left;
+	padding:3px;
+	border:#fff solid 1px;
+}
+.lof-navigator li.active img{
+	border:##6C8E5C  solid 1px;
+}
+.lof-navigator li.active h3{
+	color:#000;
+}

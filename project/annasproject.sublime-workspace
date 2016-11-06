@@ -1,0 +1,1455 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"xlsWriteN",
+				"xlsWriteNumber"
+			],
+			[
+				"SQL",
+				"SQL2"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"Rese",
+				"Reservation"
+			],
+			[
+				"New",
+				"News"
+			],
+			[
+				"not",
+				"noteOther"
+			],
+			[
+				"priceG",
+				"stPriceGas"
+			],
+			[
+				"DE",
+				"DEBET"
+			],
+			[
+				"u",
+				"ucfirst"
+			],
+			[
+				"report",
+				"reportkas"
+			],
+			[
+				"tra",
+				"transaction_detail"
+			],
+			[
+				"ty",
+				"typeFleet"
+			],
+			[
+				"mysql_fe",
+				"mysql_fetch_array"
+			],
+			[
+				"crew",
+				"crew_salary"
+			],
+			[
+				"id",
+				"idcrew_vehicle"
+			],
+			[
+				"SQ",
+				"SQX"
+			],
+			[
+				"SD",
+				"SDD2"
+			],
+			[
+				"_le",
+				"_level02"
+			],
+			[
+				"_lev",
+				"_level01"
+			],
+			[
+				"te",
+				"textInfo"
+			],
+			[
+				"re",
+				"reportkas_template"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"date",
+				"datereportkas"
+			],
+			[
+				"revenu",
+				"_revenueOther"
+			],
+			[
+				"tr",
+				"transaction_history"
+			],
+			[
+				"invoi",
+				"invoice_service"
+			],
+			[
+				"select",
+				"selected"
+			],
+			[
+				"ln",
+				"Ln"
+			],
+			[
+				"main",
+				"maintenance_vehicle"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"replace",
+				"str_replace"
+			],
+			[
+				"Se",
+				"SetFillColor"
+			],
+			[
+				"no",
+				"no_bodi"
+			],
+			[
+				"cre",
+				"crew_vehicle"
+			],
+			[
+				"strlo",
+				"strtolower"
+			],
+			[
+				"if",
+				"ife	if … else"
+			],
+			[
+				"bra",
+				"branch"
+			],
+			[
+				"mysq",
+				"mysql_query"
+			],
+			[
+				"boo",
+				"booking_code"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"vehicle",
+				"vehicle-circulation"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"sli",
+				"slideUp"
+			],
+			[
+				"idrep",
+				"idreportkas_level03"
+			],
+			[
+				"repor",
+				"reportkas_level04"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"CCC",
+				"CCC"
+			],
+			[
+				"tran",
+				"transaction"
+			],
+			[
+				"_totalBi",
+				"_totalBiayaLain"
+			],
+			[
+				"_di",
+				"_distanceKM"
+			],
+			[
+				"num",
+				"number_format"
+			],
+			[
+				"_gas",
+				"_gasServ"
+			],
+			[
+				"i",
+				"i	Tag"
+			],
+			[
+				"cl",
+				"class"
+			],
+			[
+				"read",
+				"readOnly"
+			],
+			[
+				"fade",
+				"fadeIn"
+			],
+			[
+				"mysql_er",
+				"mysql_error"
+			],
+			[
+				"on",
+				"onClick"
+			],
+			[
+				"hei",
+				"min-height"
+			],
+			[
+				"f",
+				"form	Tag"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"foun",
+				"found2"
+			],
+			[
+				"fa",
+				"fadeIn"
+			],
+			[
+				"val",
+				"val"
+			],
+			[
+				"htm",
+				"htmlentities"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"t",
+				"table	Tag"
+			],
+			[
+				"a",
+				"armenian"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"s",
+				"outline-style"
+			],
+			[
+				"M",
+				"MySQL"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"onl",
+				"onclick"
+			],
+			[
+				"kd",
+				"kd_maintenance_item"
+			],
+			[
+				"kd_",
+				"kd_merkitem"
+			],
+			[
+				"erro",
+				"error_reporting"
+			],
+			[
+				"PE",
+				"PEMBELIAN"
+			],
+			[
+				"bo",
+				"booking_code"
+			],
+			[
+				"_getS",
+				"_getTimeStart"
+			],
+			[
+				"_drive",
+				"_driver01"
+			],
+			[
+				"sele",
+				"selected"
+			],
+			[
+				"count",
+				"counts"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"S",
+				"SELECT"
+			],
+			[
+				"mysql_nu",
+				"mysql_num_rows"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"bl",
+				"bolder"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"page",
+				"page-break-after"
+			],
+			[
+				"pr",
+				"pre-line"
+			],
+			[
+				"Kos",
+				"Konsultasi"
+			],
+			[
+				"sc",
+				"scrollstyle"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"load",
+				"loadData2"
+			],
+			[
+				"di",
+				"div"
+			],
+			[
+				"inp",
+				"inputhid"
+			],
+			[
+				"inpu",
+				"input"
+			],
+			[
+				"sym",
+				"symptomcss"
+			],
+			[
+				"incl",
+				"include_once"
+			],
+			[
+				"resul",
+				"result_pag_data"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"1a",
+				"1a1a1a"
+			],
+			[
+				"h",
+				"h2	Tag"
+			],
+			[
+				"so",
+				"solid"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"tot",
+				"totalPayment"
+			],
+			[
+				"to",
+				"totalInvoice"
+			],
+			[
+				"total",
+				"totalPiutang"
+			],
+			[
+				"paddi",
+				"padding"
+			],
+			[
+				"idta",
+				"idtanya2"
+			],
+			[
+				"mysql_qu",
+				"mysql_query"
+			],
+			[
+				"OP",
+				"opt"
+			],
+			[
+				"pic",
+				"pictureAS"
+			],
+			[
+				"tmp",
+				"tmp_name"
+			],
+			[
+				"idso",
+				"idsoalujian"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 378.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/SCRIPT MASTER/rentbus99tranjaya/menu.php",
+		"/C/SCRIPT MASTER/annasproduction/application/models/songkok_admin_model.php",
+		"/C/SCRIPT MASTER/annasproduction/application/controllers/aksesroot.php",
+		"/C/SCRIPT MASTER/annasproduction/application/models/songkok_model.php",
+		"/C/SCRIPT MASTER/annasproduction/application/controllers/produk.php",
+		"/C/SCRIPT MASTER/annasproduction/application/controllers/keranjang.php",
+		"/C/SCRIPT MASTER/rentbus - UPLOAD/js-compress/pagingReportSummary.js.php",
+		"/C/SCRIPT MASTER/rentbus - UPLOAD/module/report_summary.php",
+		"/C/SCRIPT MASTER/rentbus/module/report_kas.php",
+		"/C/SCRIPT MASTER/rentbus/js-compress/pagingReportSummary.js.php",
+		"/C/SCRIPT MASTER/rentbus/data/dataReportSummary.php",
+		"/C/SCRIPT MASTER/rentbus/module/report_summary.php",
+		"/C/SCRIPT MASTER/rentbusputraremaja/js-compress/pagingReportSummary.js.php",
+		"/C/SCRIPT MASTER/rentbusputraremaja/data/dataReportSummary.php",
+		"/C/SCRIPT MASTER/rentbusputraremaja/module/report_summary.php",
+		"/C/SCRIPT MASTER/rentbus/js-compress/pagingReportTransaction.js.php",
+		"/C/SCRIPT MASTER/rentbus/module/report_transaction.php",
+		"/C/SCRIPT MASTER/rentbus/module/operationalDetail.php",
+		"/C/SCRIPT MASTER/rentbus/.htaccess",
+		"/C/SCRIPT MASTER/printpdf2/examples/res/about.php",
+		"/C/SCRIPT MASTER/printpdf2/examples/exemple05.php",
+		"/C/SCRIPT MASTER/printpdf2/examples/res/exemple05.php",
+		"/C/SCRIPT MASTER/printpdf2/examples/groups.php",
+		"/C/SCRIPT MASTER/printpdf2/examples/res/exemple13.php",
+		"/C/SCRIPT MASTER/rentbus/js/validate.js",
+		"/C/SCRIPT MASTER/rentbus/printpdf.php",
+		"/C/SCRIPT MASTER/facebookpopup/demo.htm",
+		"/C/SCRIPT MASTER/rentbusqueentrans/data/dataReportGeneralJournal.php",
+		"/C/SCRIPT MASTER/datepicker2/index.php",
+		"/C/SCRIPT MASTER/rentbus/printCrewSalarySheet.php",
+		"/C/SCRIPT MASTER/rentbusputraremaja/printCrewSalarySheet.php",
+		"/C/SCRIPT MASTER/rentbus/printCrewSalarySheet2.php",
+		"/C/SCRIPT MASTER/spkbeasiswa/library/config.php",
+		"/C/PROYEK IT 2010-2011/RENTBUS/Client/Queen Trans/DB/dbqueentrans_2014-03-25-00-15.sql",
+		"/C/SCRIPT MASTER/rentbusputraremaja/20032014download/data/dataManipulation.php",
+		"/C/SCRIPT MASTER/rentbusputraremaja/dataManipulation-b4akun.php",
+		"/C/SCRIPT MASTER/rentbus/module/crewsalary-add.php",
+		"/C/SCRIPT MASTER/ENCODE PHP/ENCODED-FOLDER/SCRIPT MASTER/rentbusputraremaja/.htaccess",
+		"/C/SCRIPT MASTER/rentbus/exportexcel/.htaccess",
+		"/C/SCRIPT MASTER/rentbus/module/home.php",
+		"/C/SCRIPT MASTER/rentbus/importexcel/importadmin.php",
+		"/C/xampp/install/.version",
+		"/C/SCRIPT MASTER/rentbus/html2pdf/_tcpdf_5.0.002/tcpdf.php",
+		"/C/SCRIPT MASTER/rentbus/html2pdf/_class/myPdf.class.php",
+		"/C/SCRIPT MASTER/rentbus/html2pdf/_class/locale.class.php",
+		"/C/SCRIPT MASTER/rentbus/html2pdf/_class/parsingCss.class.php",
+		"/C/SCRIPT MASTER/rentbus/html2pdf/_class/exception.class.php",
+		"/C/SCRIPT MASTER/rentbus/html2pdf/html2pdf.class.php",
+		"/C/SCRIPT MASTER/rentbus/html2pdf/_class/tcpdfConfig.php",
+		"/C/SCRIPT MASTER/rentbus/html2pdf/_class/parsingHtml.class.php",
+		"/C/SCRIPT MASTER/rentbus/html2pdf/_class/.htaccess",
+		"/C/SCRIPT MASTER/rentbus/html2pdf/_tcpdf_5.0.002/.htaccess",
+		"/C/SCRIPT MASTER/rentbus/html2pdf/.htaccess",
+		"/C/SCRIPT MASTER/rentbus/fpdf/.htaccess",
+		"/C/SCRIPT MASTER/printpdf2/examples/about.php",
+		"/C/SCRIPT MASTER/printpdf2/examples/exemple13.php",
+		"/C/SCRIPT MASTER/printpdf2/examples/res/exemple07a.php",
+		"/C/SCRIPT MASTER/printpdf2/examples/exemple07.php",
+		"/C/SCRIPT MASTER/printpdf2/html2pdf.class.php",
+		"/C/SCRIPT MASTER/printpdf2/_tcpdf_5.0.002/tcpdf.php",
+		"/C/SCRIPT MASTER/printpdf2/_class/myPdf.class.php",
+		"/C/SCRIPT MASTER/printpdf2/_class/parsingCss.class.php",
+		"/C/SCRIPT MASTER/rentbus/exportexcel/exl-generaljournal.php",
+		"/C/SCRIPT MASTER/rentbus/exportexcel/exl-accountlist.php",
+		"/C/SCRIPT MASTER/rentbus/data/dataReportAccountList.php",
+		"/C/PROYEK IT 2010-2011/RENTBUS/Client/Queen Trans/DB/dbqueentrans_2014-02-23-00-15.sql",
+		"/C/SCRIPT MASTER/printpdf2/InvoiceAllMCPDF.class.php",
+		"/C/SCRIPT MASTER/printpdf2/InvoicePDF.class.php",
+		"/C/SCRIPT MASTER/printpdf2/index-all-mc.php",
+		"/C/SCRIPT MASTER/printpdf2/index.php",
+		"/C/SCRIPT MASTER/printpdf2/pdf.php",
+		"/C/SCRIPT MASTER/printpdf2/pdf/lib/pdftable.inc.php",
+		"/C/SCRIPT MASTER/printpdf2/lib/pdftable.inc.php",
+		"/C/SCRIPT MASTER/printpdf2/example3.php",
+		"/C/SCRIPT MASTER/rentbus/fpdf/lib/fpdf.inc.php",
+		"/C/SCRIPT MASTER/rentbus/fpdf/lib/pdftable.inc.php",
+		"/C/SCRIPT MASTER/rentbus/fpdf/lib/color.inc.php",
+		"/C/SCRIPT MASTER/rentbus/fpdf/lib/htmlparser.inc.php",
+		"/C/SCRIPT MASTER/printpdf2/lib/htmlparser.inc.php",
+		"/C/SCRIPT MASTER/printpdf2/lib/fpdf.inc.php",
+		"/C/SCRIPT MASTER/printpdf2/lib/color.inc.php",
+		"/C/SCRIPT MASTER/rentbus/fpdf/fpdf.php",
+		"/C/SCRIPT MASTER/rentbus/module/vehicle-rentextend.php",
+		"/C/SCRIPT MASTER/rentbus/data/dataVehicleExtend.php",
+		"/C/SCRIPT MASTER/rentbus/js-compress/pagingVehicleExtend.js.php",
+		"/C/SCRIPT MASTER/popup/index.html",
+		"/C/SCRIPT MASTER/popup/css/styles.css",
+		"/C/SCRIPT MASTER/rentbus/js/jquery.reveal.js",
+		"/C/SCRIPT MASTER/rentbus/facefiles/facebox.css",
+		"/C/SCRIPT MASTER/rentbus/css/datepicker.css",
+		"/C/SCRIPT MASTER/rentbus/js/jquery-ui-timepicker-addon.js",
+		"/C/SCRIPT MASTER/rentbus/popupAddGasStation.php",
+		"/C/SCRIPT MASTER/rentbus/css/colorbox.css",
+		"/C/SCRIPT MASTER/rentbus/assets/css/styles.css",
+		"/C/SCRIPT MASTER/rentbus/module/reportKas-add.php",
+		"/C/SCRIPT MASTER/rentbus/js-compress/pagingReservation.js.php",
+		"/C/SCRIPT MASTER/rentbus/js/pagingReservation.js",
+		"/C/SCRIPT MASTER/rentbus/library/time_server.php",
+		"/C/SCRIPT MASTER/rentbus/data/dataReportVehicles.php",
+		"/C/SCRIPT MASTER/rentbus/data/dataUsers.php",
+		"/C/SCRIPT MASTER/rentbus/data/dataReportTransaction.php",
+		"/C/SCRIPT MASTER/rentbus/module/.htaccess",
+		"/C/SCRIPT MASTER/rentbus/data/.htaccess",
+		"/C/SCRIPT MASTER/rentbus/backup_20061991_db/.htaccess",
+		"/C/SCRIPT MASTER/rentbus/importexcel/index.php",
+		"/C/SCRIPT MASTER/rentbus/data/dataReportGraphicBus.php",
+		"/C/SCRIPT MASTER/rentbus/importexcel/importreportkas.php",
+		"/C/SCRIPT MASTER/rentbus/importexcel/.htaccess",
+		"/C/SCRIPT MASTER/rentbus/module/payment-edit.php",
+		"/C/SCRIPT MASTER/rentbus/module/payment-add.php",
+		"/C/SCRIPT MASTER/rentbus/importexcel/importordercrewup.php",
+		"/C/SCRIPT MASTER/rentbus/importexcel/importtipemerkinv.php",
+		"/C/SCRIPT MASTER/rentbus/importexcel/importorder_update1.php",
+		"/C/SCRIPT MASTER/rentbus/importexcel/importordercrew.php",
+		"/C/SCRIPT MASTER/rentbus/importexcel/importorder.php",
+		"/C/SCRIPT MASTER/rentbus/importexcel/excel_reader2.php",
+		"/C/SCRIPT MASTER/rentbus/importexcel/importvehicle.php",
+		"/C/SCRIPT MASTER/rentbus/importexcel/importcustomer.php",
+		"/C/SCRIPT MASTER/rentbus/printDriver.php",
+		"/C/SCRIPT MASTER/rentbus/data/dataCrewSearchSalary.php",
+		"/C/SCRIPT MASTER/rentbus/module/reservation-edit.php",
+		"/C/SCRIPT MASTER/rentbus/module/reservation-add.php",
+		"/C/SCRIPT MASTER/rentbus/data/dataCrewSearch2.php",
+		"/C/SCRIPT MASTER/rentbus/data/dataCrewSearch.php",
+		"/C/SCRIPT MASTER/rentbus/data/dataFleetPlanningTemp.php",
+		"/C/SCRIPT MASTER/rentbus/js-compress/pagingFleetPlanningTemp.js.php",
+		"/C/SCRIPT MASTER/rentbus/popupAddFLTemp.php",
+		"/C/SCRIPT MASTER/rentbus/css/style.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"C:\\SCRIPT MASTER\\rentbus",
+			"C:\\SCRIPT MASTER\\printpdf2",
+			"C:\\SCRIPT MASTER\\rentbus",
+			"C:\\SCRIPT MASTER\\templatecss\\aries",
+			"C:\\SCRIPT MASTER\\rentbus",
+			"C:\\SCRIPT MASTER\\rentbusputraremaja",
+			"C:\\SCRIPT MASTER\\rentbus",
+			"C:\\SCRIPT MASTER\\spkbeasiswa",
+			"C:\\SCRIPT MASTER\\apasakitku",
+			"C:\\SCRIPT MASTER\\apasakitku\\wp-content\\themes\\apasakitku",
+			"C:\\SCRIPT MASTER\\apasakitku",
+			"C:\\SCRIPT MASTER\\apasakitku\\wp-content\\themes\\apasakitku",
+			"C:\\SCRIPT MASTER\\rentbus\\",
+			"D:\\SCRIPT MASTER\\rentbus\\",
+			"D:\\SCRIPT MASTER\\rentbus\\inventori",
+			"D:\\SCRIPT MASTER\\rentbus",
+			"D:\\SCRIPT MASTER\\apasakitku\\wp-content\\themes\\apasakitku",
+			"D:\\SCRIPT MASTER\\diskonmarket\\wp-content\\themes\\clipper124",
+			"D:\\SCRIPT MASTER\\apasakitku\\wp-content\\themes\\apasakitku",
+			"D:\\SCRIPT MASTER\\apasakitku\\",
+			"D:\\SCRIPT MASTER\\apasakitku\\wp-content\\themes\\apasakitku",
+			"D:\\SCRIPT MASTER\\apasakitku",
+			"D:\\SCRIPT MASTER\\rentcar",
+			"D:\\SCRIPT MASTER\\apasakitku\\",
+			"D:\\SCRIPT MASTER\\apasakitku\\wp-content\\themes\\apasakitku",
+			"D:\\distromurah",
+			"D:\\SCRIPT MASTER\\apasakitku\\wp-content\\themes\\apasakitku",
+			"D:\\SCRIPT MASTER\\apasakitku",
+			"D:\\SCRIPT MASTER\\ajax"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"delete_backup",
+			"tampil_daftar_admin",
+			"numbe",
+			"split",
+			"searchClickAdmin",
+			" (PR)",
+			"13",
+			"277",
+			"$totalBiaya",
+			"$biaya",
+			"[$num3]",
+			"$totalBiaya",
+			"_sCust",
+			"Premi",
+			"$totalPremi",
+			"[$num3]",
+			"report_summary",
+			"25",
+			"22",
+			"8",
+			"9",
+			"report_summary",
+			"6%",
+			"9%",
+			"$invoice",
+			"$biaya",
+			"premi",
+			"$totalPremi",
+			"$totalBiaya",
+			"$totalOP",
+			"$premi",
+			"$lainlain",
+			"$otherCostServ",
+			"$totalPremi",
+			"%",
+			"searchClickAdmin",
+			"$_sCust",
+			"$_sAdmin",
+			"sCust",
+			", $('#searchSelectCustomerHide').val()",
+			"_searchAdmin",
+			"_searchAdmin\n",
+			"$levelUsers",
+			"searchClickAdmin",
+			"Laporan Ring",
+			"payment",
+			"transaction'",
+			"$_bookingCodeSearch",
+			"report_operational",
+			"transaction'",
+			"$_sPaymentSt",
+			"$_sVehicleSQL",
+			"searchSB",
+			", $('#searchSelectVehicleHide').val()",
+			"sPaymentSt",
+			"content32",
+			"_searchPaymentStatus",
+			"searchSB",
+			"_validate_16",
+			"$xxx",
+			"$xx",
+			"40",
+			"13",
+			"15",
+			"18",
+			"191",
+			"5",
+			"18",
+			"transaction",
+			"_sVehicle",
+			"$_sBranch",
+			"total",
+			"$total",
+			"total",
+			"'",
+			"<br />",
+			"'",
+			"$_POST",
+			"sVehicle",
+			"report_",
+			"report_transa",
+			"roundThousand",
+			"containId",
+			"_checkecAllPremi",
+			".php",
+			"-compress",
+			"branch_name",
+			"$statusApprove",
+			"appro",
+			"total",
+			"$_totalPay",
+			"Invoice",
+			"191",
+			"$_searchBooked",
+			"191",
+			"report_summary",
+			"28",
+			"20",
+			"18",
+			"28",
+			"20",
+			"<br/>",
+			"'",
+			",'C',0",
+			"$_sBranch",
+			"$info",
+			"<br />",
+			"'",
+			"$info",
+			"$_idVehicle2",
+			"'",
+			"51",
+			"POST",
+			"report_operational",
+			"$_totalFeeBulat",
+			"Jumlah",
+			"printCrewSalarySheet",
+			"Jumlah",
+			"data2",
+			"data",
+			"$intervalDays",
+			"$f",
+			"$invoice",
+			"$_totalRental",
+			"$SQL7",
+			"$pay",
+			"$SQL4",
+			"$_discount"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"CW",
+			"calculateTotalBus",
+			"Marketing",
+			"MG",
+			"maintenance_vehicle.idjenis_maintenance_vehicle <> 7 AND maintenance_vehicle.idjenis_maintenance_vehicle <> 8",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 36.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 102.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"songkok_admin_model",
+				"application/models/songkok_admin_model.php"
+			],
+			[
+				"time_ser",
+				"library/time_server.php"
+			],
+			[
+				"datavehi",
+				"data/dataReportVehicles.php"
+			],
+			[
+				"valida",
+				"js-compress/validate.js.php"
+			],
+			[
+				"pagingsearchvehicle.js.php",
+				"js-compress/pagingSearchVehicle.js.php"
+			],
+			[
+				"fpdf",
+				"fpdf/fpdf.php"
+			],
+			[
+				"kas",
+				"module/report_kas.php"
+			],
+			[
+				"summary",
+				"js-compress/pagingReportSummary.js.php"
+			],
+			[
+				"reposu",
+				"module/report_summary.php"
+			],
+			[
+				"sum",
+				"module/report_summary.php"
+			],
+			[
+				"repo",
+				"module/report.php"
+			],
+			[
+				"pagingtran",
+				"js-compress/pagingReportTransaction.js.php"
+			],
+			[
+				"pagingope",
+				"js-compress/pagingReportOperational.js.php"
+			],
+			[
+				"datareport",
+				"data/dataReportOperational.php"
+			],
+			[
+				"tran",
+				"module/report_transaction.php"
+			],
+			[
+				"ope",
+				"module/operational.php"
+			],
+			[
+				"oper",
+				"module/operationalDetail.php"
+			],
+			[
+				"print",
+				"printReport.php"
+			],
+			[
+				"jquery.reveal.js",
+				"js/jquery.reveal.js"
+			],
+			[
+				"data",
+				"data/datafleetAccountability.php"
+			],
+			[
+				"pagingcrewsear",
+				"js-compress/pagingCrewSearchSalary.js.php"
+			],
+			[
+				"datamas",
+				"js/dataMaster.js"
+			],
+			[
+				"exl-customer.php",
+				"exportexcel/exl-customer.php"
+			],
+			[
+				"datacustom",
+				"data/dataCustomer.php"
+			],
+			[
+				"fle",
+				"module/fleetPlanning.php"
+			],
+			[
+				"printcrewsalarysheet.php",
+				"printCrewSalarySheet.php"
+			],
+			[
+				"dataopera",
+				"data/dataReportOperational.php"
+			],
+			[
+				"datareports",
+				"data/dataReportSummary.php"
+			],
+			[
+				"hom",
+				"module/home.php"
+			],
+			[
+				"datacrew",
+				"data/dataCrewSearchSalary.php"
+			],
+			[
+				"crew",
+				"module/crewsalary-add.php"
+			],
+			[
+				"pro",
+				"importexcel/proses.php"
+			],
+			[
+				"impo",
+				"importexcel/importtipemerkinv.php"
+			],
+			[
+				"impor",
+				"importexcel/importordercrewup.php"
+			],
+			[
+				"cstom",
+				"module/customer.php"
+			],
+			[
+				"exl",
+				"exportexcel/exl-accountlist.php"
+			],
+			[
+				"vali",
+				"js/validate.js"
+			],
+			[
+				"tcpdf.php",
+				"html2pdf/_tcpdf_5.0.002/tcpdf.php"
+			],
+			[
+				"datareporta",
+				"data/dataReportAccountList.php"
+			],
+			[
+				"fpd",
+				"fpdf/fpdf.php"
+			],
+			[
+				"library",
+				"library/time_server.php"
+			],
+			[
+				"pagingreporttr",
+				"js-compress/pagingReportTransaction.js.php"
+			],
+			[
+				"reporttra",
+				"module/report_transaction.php"
+			],
+			[
+				"pgingexte",
+				"js-compress/pagingVehicleExtend.js.php"
+			],
+			[
+				"date",
+				"css/datepicker.css"
+			],
+			[
+				"reveal",
+				"js/jquery.reveal.js"
+			],
+			[
+				"faceb",
+				"facefiles/facebox.css"
+			],
+			[
+				"datepic",
+				"css/datepicker.css"
+			],
+			[
+				"timepi",
+				"js/jquery-ui-timepicker-addon.js"
+			],
+			[
+				"datepicker.css",
+				"css/datepicker.css"
+			],
+			[
+				"face",
+				"facefiles/facebox.css"
+			],
+			[
+				"pop",
+				"popupAddGasStation.php"
+			],
+			[
+				"facebo",
+				"facefiles/facebox.css"
+			],
+			[
+				"colorbox.css",
+				"css/colorbox.css"
+			],
+			[
+				"styles.css",
+				"assets/css/styles.css"
+			],
+			[
+				"reportk",
+				"module/reportKas-add.php"
+			],
+			[
+				"exte",
+				"data/dataVehicleExtend.php"
+			],
+			[
+				"pagingreportvehi",
+				"js-compress/pagingReportVehicles.js.php"
+			],
+			[
+				"pagingrese",
+				"js-compress/pagingReservation.js.php"
+			],
+			[
+				"report_veh",
+				"module/report_vehicle.php"
+			],
+			[
+				"time_s",
+				"library/time_server.php"
+			],
+			[
+				"pagingtra",
+				"js-compress/pagingReportTransaction.js.php"
+			],
+			[
+				"sty",
+				"css/style.css"
+			],
+			[
+				"reser",
+				"module/reservation-add.php"
+			],
+			[
+				"datarese",
+				"data/dataReservation.php"
+			],
+			[
+				"datareportveh",
+				"data/dataReportVehicles.php"
+			],
+			[
+				"datauser",
+				"data/dataUsers.php"
+			],
+			[
+				"datareporttr",
+				"data/dataReportTransaction.php"
+			],
+			[
+				"report",
+				"module/report.php"
+			],
+			[
+				"report_kas",
+				"module/report_kas.php"
+			],
+			[
+				"datajourn",
+				"data/dataReportGeneralJournal.php"
+			],
+			[
+				"datareportbo",
+				"data/dataReportBigBook.php"
+			],
+			[
+				"datareportk",
+				"data/dataReportKas.php"
+			],
+			[
+				"datagra",
+				"data/dataReportGraphicBus.php"
+			],
+			[
+				"importreportkas",
+				"importexcel/importreportkas.php"
+			],
+			[
+				"payme",
+				"module/payment-edit.php"
+			],
+			[
+				"impoertcr",
+				"importexcel/importordercrewup.php"
+			],
+			[
+				"importordercrewup",
+				"importexcel/importordercrewup.php"
+			],
+			[
+				"importtipemerkinv",
+				"importexcel/importtipemerkinv.php"
+			],
+			[
+				"importorder_update1",
+				"importexcel/importorder_update1.php"
+			],
+			[
+				"importup",
+				"importexcel/importorder_update1.php"
+			],
+			[
+				"importorder_update1.php",
+				"importexcel/importorder_update1.php"
+			],
+			[
+				"importorder",
+				"importexcel/importorder.php"
+			],
+			[
+				"importoder",
+				"importexcel/importordercrew.php"
+			],
+			[
+				"import",
+				"importexcel/importordercrew.php"
+			],
+			[
+				"importordercrew",
+				"importexcel/importordercrew.php"
+			],
+			[
+				"operationaldetail",
+				"module/operationalDetail.php"
+			],
+			[
+				"datatran",
+				"data/dataReportTransaction.php"
+			],
+			[
+				"excel_reader2.php",
+				"importexcel/excel_reader2.php"
+			],
+			[
+				"importad",
+				"importexcel/importadmin.php"
+			],
+			[
+				"importvehicle",
+				"importexcel/importvehicle.php"
+			],
+			[
+				"prin",
+				"printpdf.php"
+			],
+			[
+				"printdr",
+				"printDriver.php"
+			],
+			[
+				"coo",
+				"js/cookies.js"
+			],
+			[
+				"crewsearchsalary",
+				"data/dataCrewSearchSalary.php"
+			],
+			[
+				"pagingtr",
+				"js-compress/pagingReportTransaction.js.php"
+			],
+			[
+				"set",
+				"module/setting.php"
+			],
+			[
+				"repor",
+				"module/report.php"
+			],
+			[
+				"dyna",
+				"library/dynamicpage.php"
+			],
+			[
+				"navi",
+				"navigasi.php"
+			],
+			[
+				"inde",
+				"index.php"
+			],
+			[
+				"reservation-edit.php",
+				"module/reservation-edit.php"
+			],
+			[
+				"pagingcustomer2.js.php",
+				"js-compress/pagingCustomer2.js.php"
+			],
+			[
+				"popupaddgasstation.php",
+				"popupAddGasStation.php"
+			],
+			[
+				"datagasstation.php",
+				"data/dataGasStation.php"
+			],
+			[
+				"pagincrewsearch.php",
+				"js-compress/pagingCrewSearch.js.php"
+			],
+			[
+				"datacrewsearch2",
+				"data/dataCrewSearch2.php"
+			],
+			[
+				"datacrewsearch2.php",
+				"data/dataCrewSearch2.php"
+			],
+			[
+				"pagingcrewsearch2.js.php",
+				"js-compress/pagingCrewSearch2.js.php"
+			],
+			[
+				"datago",
+				"data/dataReportGeneralJournal.php"
+			],
+			[
+				"opera",
+				"module/operationalDetail.php"
+			],
+			[
+				"datafl",
+				"data/datafleetAccountability.php"
+			],
+			[
+				"delete",
+				"module/crewsalary-delete.php"
+			],
+			[
+				"reserva",
+				"module/reservation-add.php"
+			],
+			[
+				"datagrp",
+				"data/dataReportGraphicBus.php"
+			],
+			[
+				"printf",
+				"printFleetAC.php"
+			],
+			[
+				"datafle",
+				"data/datafleetAccountability.php"
+			],
+			[
+				"dataope",
+				"data/dataReportOperational.php"
+			],
+			[
+				"datarenthi",
+				"data/dataRentHistory2.php"
+			],
+			[
+				"custom",
+				"module/customer-edit.php"
+			],
+			[
+				"pagingrent",
+				"js-compress/pagingRentHistory.js.php"
+			],
+			[
+				"datarenthistory.php",
+				"data/dataRentHistory.php"
+			],
+			[
+				"pagingadmins2.js.php",
+				"js-compress/pagingAdmins2.js.php"
+			],
+			[
+				"dataadmins2.php",
+				"data/dataAdmins2.php"
+			],
+			[
+				"datacrewsearch.php",
+				"data/dataCrewSearch.php"
+			],
+			[
+				"datamaintenancemain.php",
+				"data/dataMaintenanceMain.php"
+			],
+			[
+				"pagingmaintenancemain.js.php",
+				"js-compress/pagingMaintenanceMain.js.php"
+			],
+			[
+				"maintenance",
+				"module/maintenance.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}
